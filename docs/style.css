@@ -1,0 +1,130 @@
+.navbar a{
+    font-family: 'Comfortaa', sans-serif, cursive;font-size: 19px;
+}
+.nav-link span{
+    font-family: 'Comfortaa', sans-serif, serif;font-size: 19px;color: black;
+}
+.nav-link i{
+    font-family: 'Comfortaa', sans-serif, serif;font-size: 19px;color: black;
+}
+.nav-link a{
+    font-family: 'Comfortaa', sans-serif, serif;font-size: 19px;color: black;
+}
+.navbar {
+    max-height: 20px;
+}
+.dropdown-menu a{
+    font-family: 'Comfortaa', sans-serif, serif;font-size: 14px;color: black;
+}
+
+.navbar-expand{
+    min-height: 8px;
+    color: #2a2730
+}
+.navbar-nav a{
+    font-size: 16px;
+}
+.navbar li {
+    text-align: center;
+}
+
+.navbar-brand {
+    padding: 0px;
+    height: 10px;
+    line-height: 10px;
+}
+
+.navbar-toggle {
+    /* (80px - button height 34px) / 2 = 23px */
+    margin-top: 0px;
+    padding: 9px 10px !important;
+}
+
+
+.tab {
+    text-indent: 40px;
+}
+.top-t {
+    text-indent: 7px;
+    margin-top: 12px;
+}
+.navbar-expand-md {
+    margin-top: 0px;
+}
+.carousel-caption{
+    min-width: 650px;
+}
+a.button2{
+    display:inline-block;
+    padding:0.3em 1.2em;
+    margin:0 0.1em 0.1em 0;
+    border:0.16em solid rgb(88, 87, 90);
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Comfortaa',sans-serif;
+    font-weight:900;
+    color: rgb(59, 59, 59);
+    text-shadow: 0 0.04em 0.04em rgba(236, 216, 216, 0.35);
+    text-align:center;
+    transition: all 0.2s;
+}
+a.button2:hover{
+    border-color: rgb(255, 255, 255);
+}
+
+.bouncy{
+    animation:bouncy 5s infinite linear;
+    position:relative;
+}
+@keyframes bouncy {
+    0% {
+        top: 0em
+    }
+    40% {
+        top: 0em
+    }
+    43% {
+        top: -0.9em
+    }
+    46% {
+        top: 0em
+    }
+    48% {
+        top: -0.4em
+    }
+    50% {
+        top: 0em
+    }
+    100% {
+        top: 0em;
+    }
+}
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.circular--landscape {
+    display: inline-block;
+
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 50%;
+
+}
+
+.circular--landscape img {
+    width: 300px;
+    height: auto;
+    margin-top: 600px;
+    object-fit: cover;
+}
