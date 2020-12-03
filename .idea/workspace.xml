@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: edited internetsearch">
+    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: edited index 2">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <updated>1606793983813</updated>
       <workItem from="1606793984934" duration="34530000" />
       <workItem from="1606984170503" duration="1596000" />
-      <workItem from="1606986606389" duration="10657000" />
+      <workItem from="1606986606389" duration="11003000" />
     </task>
     <task id="LOCAL-00001" summary="task: edit">
       <created>1606988123602</created>
@@ -105,7 +105,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607037034952</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task: edited index">
+      <created>1607037188957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607037188957</updated>
+    </task>
+    <task id="LOCAL-00007" summary="task: edited index d">
+      <created>1607037277961</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607037277961</updated>
+    </task>
+    <task id="LOCAL-00008" summary="task: edited index 2">
+      <created>1607037354343</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607037354343</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +147,10 @@
     <MESSAGE value="task: edit" />
     <MESSAGE value="task: edited pages" />
     <MESSAGE value="task: edited internetsearch" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: edited internetsearch" />
+    <MESSAGE value="task: edited index" />
+    <MESSAGE value="task: edited index d" />
+    <MESSAGE value="task: edited index 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: edited index 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1606995520951">
@@ -149,10 +173,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821652933" />
-    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607037038680">
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607037357346">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607037038680" />
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607037357346" />
     <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606818269997">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
