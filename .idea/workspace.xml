@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/images/H.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1153675389-2048x2048 (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-672824152-2048x2048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-9-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/style2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/gettyimages-1153675389-2048x2048.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/gettyimages-1153675389-2048x2048.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,6 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606793983813</updated>
       <workItem from="1606793984934" duration="34530000" />
+      <workItem from="1606984170503" duration="1596000" />
+      <workItem from="1606986606389" duration="1256000" />
     </task>
     <servers />
   </component>
@@ -67,18 +59,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="91" key="#Deployment" timestamp="1606982933271">
+    <state x="330" y="91" key="#Deployment" timestamp="1606986918411">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="91" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1606982933271" />
+    <state x="330" y="91" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1606986918411" />
     <state x="314" y="78" key="#SSH_Configurations" timestamp="1606794741982">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="314" y="78" key="#SSH_Configurations/0.0.1474.864@0.0.1474.864" timestamp="1606794741982" />
-    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1606806499704">
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1606986024806">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606806499704" />
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606986024806" />
     <state x="599" y="330" key="Github.ShareDialog" timestamp="1606821647225">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
