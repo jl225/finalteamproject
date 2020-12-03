@@ -19,7 +19,27 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: edit" />
+    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: edit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1079012962-2048x2048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-942696884-612x612.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-944724820-2048x2048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/pexels-caio-67112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/pexels-cottonbro-5077048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/pexels-pixabay-373543.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/browserwars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browserwars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dotcombubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dotcombubble.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/H.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/logoimg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gettyimages-9-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/gettyi-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/internetsearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/internetsearch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style2.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +86,7 @@
       <updated>1606793983813</updated>
       <workItem from="1606793984934" duration="34530000" />
       <workItem from="1606984170503" duration="1596000" />
-      <workItem from="1606986606389" duration="2096000" />
+      <workItem from="1606986606389" duration="10399000" />
     </task>
     <task id="LOCAL-00001" summary="task: edit">
       <created>1606988123602</created>
@@ -82,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606988459911</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task: edit">
+      <created>1606989004711</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606989004711</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,18 +131,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="task: edit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="91" key="#Deployment" timestamp="1606986918411">
+    <state x="330" y="91" key="#Deployment" timestamp="1606995520951">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="91" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1606986918411" />
+    <state x="330" y="91" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1606995520951" />
     <state x="314" y="78" key="#SSH_Configurations" timestamp="1606794741982">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="314" y="78" key="#SSH_Configurations/0.0.1474.864@0.0.1474.864" timestamp="1606794741982" />
-    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1606986024806">
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1606992808205">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606986024806" />
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606992808205" />
     <state x="599" y="330" key="Github.ShareDialog" timestamp="1606821647225">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -124,10 +151,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821652933" />
-    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606988462803">
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606989008693">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606988462803" />
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606989008693" />
     <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606818269997">
       <screen x="0" y="0" width="1474" height="864" />
     </state>

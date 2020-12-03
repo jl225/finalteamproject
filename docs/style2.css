@@ -153,6 +153,23 @@ a.button2:hover{
     object-fit: cover;
 }
 
+.circular2--landscape {
+    display: inline-block;
+
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    border-radius: 9%;
+
+}
+
+.circular2--landscape img {
+    width: 180px;
+    height:180px;
+    margin-top: 0px;
+    object-fit: cover;
+}
+
 .center{
     text-align: center;
 }
