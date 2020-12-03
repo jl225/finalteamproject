@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: edited index 2">
+    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: footer fix">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,7 @@
       <updated>1606793983813</updated>
       <workItem from="1606793984934" duration="34530000" />
       <workItem from="1606984170503" duration="1596000" />
-      <workItem from="1606986606389" duration="11003000" />
+      <workItem from="1606986606389" duration="11843000" />
     </task>
     <task id="LOCAL-00001" summary="task: edit">
       <created>1606988123602</created>
@@ -126,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607037354343</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task: footer fixed">
+      <created>1607037648831</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607037648831</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task: footer fix">
+      <created>1607037749681</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607037749681</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +165,9 @@
     <MESSAGE value="task: edited index" />
     <MESSAGE value="task: edited index d" />
     <MESSAGE value="task: edited index 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: edited index 2" />
+    <MESSAGE value="task: footer fixed" />
+    <MESSAGE value="task: footer fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: footer fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1606995520951">
@@ -173,10 +190,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821652933" />
-    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607037357346">
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607037751957">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607037357346" />
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607037751957" />
     <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606818269997">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
