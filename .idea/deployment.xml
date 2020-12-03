@@ -5,7 +5,8 @@
       <paths name="AFS">
         <serverdata>
           <mappings>
-            <mapping deploy="historyrefactor" local="$PROJECT_DIR$" web="/historyrefactor" />
+            <mapping deploy="historyrefact" local="$PROJECT_DIR$" web="/historyrefact" />
+            <mapping local="" />
           </mappings>
         </serverdata>
       </paths>

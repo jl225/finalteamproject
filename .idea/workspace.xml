@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="" />
+    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/images/H.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1153675389-2048x2048 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-672824152-2048x2048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-9-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/style2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gettyimages-1153675389-2048x2048.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/gettyimages-1153675389-2048x2048.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +23,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l2T37rrmGV1AZMX3Z0rWrTh3lU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,8 +42,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amber\WebstormProjects\finalteamproject\docs\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606793983813</updated>
-      <workItem from="1606793984934" duration="10404000" />
+      <workItem from="1606793984934" duration="34530000" />
     </task>
     <servers />
   </component>
@@ -43,10 +67,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="91" key="#Deployment" timestamp="1606795190382">
+    <state x="330" y="91" key="#Deployment" timestamp="1606982933271">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="91" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1606795190382" />
+    <state x="330" y="91" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1606982933271" />
     <state x="314" y="78" key="#SSH_Configurations" timestamp="1606794741982">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -55,5 +79,21 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606806499704" />
+    <state x="599" y="330" key="Github.ShareDialog" timestamp="1606821647225">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="599" y="330" key="Github.ShareDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821647225" />
+    <state x="518" y="137" key="Github.UntrackedFilesDialog" timestamp="1606821652933">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821652933" />
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606821657034">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606821657034" />
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606818269997">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1606818269997" />
   </component>
 </project>
