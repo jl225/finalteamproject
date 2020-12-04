@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: footer fix">
+    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: footer fixe">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../howtheinternetworks" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -69,7 +70,7 @@
       <updated>1606793983813</updated>
       <workItem from="1606793984934" duration="34530000" />
       <workItem from="1606984170503" duration="1596000" />
-      <workItem from="1606986606389" duration="11843000" />
+      <workItem from="1606986606389" duration="13508000" />
     </task>
     <task id="LOCAL-00001" summary="task: edit">
       <created>1606988123602</created>
@@ -141,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607037749681</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="task: footer fixe">
+      <created>1607038400117</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607038400117</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +175,8 @@
     <MESSAGE value="task: edited index 2" />
     <MESSAGE value="task: footer fixed" />
     <MESSAGE value="task: footer fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: footer fix" />
+    <MESSAGE value="task: footer fixe" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: footer fixe" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1606995520951">
@@ -178,10 +187,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="314" y="78" key="#SSH_Configurations/0.0.1474.864@0.0.1474.864" timestamp="1606794741982" />
-    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1606992808205">
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1607038827364">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606992808205" />
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1607038827364" />
     <state x="599" y="330" key="Github.ShareDialog" timestamp="1606821647225">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -190,10 +199,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821652933" />
-    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607037751957">
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607038403755">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607037751957" />
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607038403755" />
     <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606818269997">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
