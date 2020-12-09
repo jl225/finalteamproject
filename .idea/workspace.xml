@@ -19,12 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: index edited4">
-      <change afterPath="$PROJECT_DIR$/docs/images/Capture.JPG" afterDir="false" />
+    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: Readme Edit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/browserwars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browserwars.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/dotcombubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dotcombubble.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/internetsearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/internetsearch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/people.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +89,7 @@
       <workItem from="1607385231399" duration="707000" />
       <workItem from="1607409629797" duration="220000" />
       <workItem from="1607423202159" duration="37000" />
-      <workItem from="1607495488453" duration="968000" />
+      <workItem from="1607495488453" duration="3887000" />
     </task>
     <task id="LOCAL-00001" summary="task: edit">
       <created>1606988123602</created>
@@ -207,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607056985583</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="task: Readme Edit">
+      <created>1607498244810</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607498244810</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +251,8 @@
     <MESSAGE value="task: index edited2" />
     <MESSAGE value="task: index edited3" />
     <MESSAGE value="task: index edited4" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: index edited4" />
+    <MESSAGE value="task: Readme Edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: Readme Edit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1606995520951">
@@ -265,9 +276,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821652933" />
-    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607056988944">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607498246857">
+      <screen x="0" y="0" width="1469" height="864" />
     </state>
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607498246857" />
     <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607056988944" />
     <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606818269997">
       <screen x="0" y="0" width="1474" height="864" />
