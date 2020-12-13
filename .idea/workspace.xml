@@ -19,15 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: Readme Edit">
+    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: google analytics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/browserwars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browserwars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dotcombubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dotcombubble.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/internetsearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/internetsearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +83,8 @@
       <workItem from="1607385231399" duration="707000" />
       <workItem from="1607409629797" duration="220000" />
       <workItem from="1607423202159" duration="37000" />
-      <workItem from="1607495488453" duration="3887000" />
+      <workItem from="1607495488453" duration="4023000" />
+      <workItem from="1607821588819" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="task: edit">
       <created>1606988123602</created>
@@ -217,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607498244810</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="task: google analytics">
+      <created>1607502104978</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607502104978</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +254,8 @@
     <MESSAGE value="task: index edited3" />
     <MESSAGE value="task: index edited4" />
     <MESSAGE value="task: Readme Edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: Readme Edit" />
+    <MESSAGE value="task: google analytics" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: google analytics" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1606995520951">
@@ -276,10 +279,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821652933" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607498246857">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607502106495">
       <screen x="0" y="0" width="1469" height="864" />
     </state>
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607498246857" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607502106495" />
     <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607056988944" />
     <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606818269997">
       <screen x="0" y="0" width="1474" height="864" />
