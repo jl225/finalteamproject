@@ -19,10 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: before and after">
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-505596421-2048x2048.jpg" afterDir="false" />
+    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: footer fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/browserwars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browserwars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dotcombubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dotcombubble.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/people.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +62,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\amber\WebstormProjects\finalteamproject\docs\pdf" />
       <recent name="C:\Users\amber\WebstormProjects\finalteamproject\docs\images" />
+      <recent name="C:\Users\amber\WebstormProjects\finalteamproject\docs\pdf" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,7 +92,7 @@
       <workItem from="1607423202159" duration="37000" />
       <workItem from="1607495488453" duration="4023000" />
       <workItem from="1607821588819" duration="1090000" />
-      <workItem from="1608539543264" duration="1429000" />
+      <workItem from="1608539543264" duration="2349000" />
     </task>
     <task id="LOCAL-00001" summary="task: edit">
       <created>1606988123602</created>
@@ -237,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607822819769</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="task: footer fix">
+      <created>1608541208997</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1608541208997</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +274,6 @@
     <MESSAGE value="task: edited index d" />
     <MESSAGE value="task: edited index 2" />
     <MESSAGE value="task: footer fixed" />
-    <MESSAGE value="task: footer fix" />
     <MESSAGE value="task: footer fixe" />
     <MESSAGE value="task: link fix" />
     <MESSAGE value="task: index edit" />
@@ -274,7 +284,8 @@
     <MESSAGE value="task: Readme Edit" />
     <MESSAGE value="task: google analytics" />
     <MESSAGE value="task: before and after" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: before and after" />
+    <MESSAGE value="task: footer fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: footer fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1606995520951">
@@ -299,11 +310,11 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821652933" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607822838112">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1608541212530">
       <screen x="0" y="0" width="1471" height="864" />
     </state>
     <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607502106495" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1471.864@0.0.1471.864" timestamp="1607822838112" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1471.864@0.0.1471.864" timestamp="1608541212530" />
     <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607056988944" />
     <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606818269997">
       <screen x="0" y="0" width="1474" height="864" />
