@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: google analytics">
+    <list default="true" id="2a25c034-7cdd-4c4c-a5bf-e845610e8f27" name="Default Changelist" comment="task: before and after">
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-505596421-2048x2048.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amber\WebstormProjects\finalteamproject\docs\pdf" />
       <recent name="C:\Users\amber\WebstormProjects\finalteamproject\docs\images" />
     </key>
   </component>
@@ -84,7 +87,8 @@
       <workItem from="1607409629797" duration="220000" />
       <workItem from="1607423202159" duration="37000" />
       <workItem from="1607495488453" duration="4023000" />
-      <workItem from="1607821588819" duration="643000" />
+      <workItem from="1607821588819" duration="1090000" />
+      <workItem from="1608539543264" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="task: edit">
       <created>1606988123602</created>
@@ -219,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607502104978</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="task: google analytics">
+      <created>1607822620776</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607822620776</updated>
+    </task>
+    <task id="LOCAL-00021" summary="task: before and after">
+      <created>1607822819769</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1607822819769</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +273,8 @@
     <MESSAGE value="task: index edited4" />
     <MESSAGE value="task: Readme Edit" />
     <MESSAGE value="task: google analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: google analytics" />
+    <MESSAGE value="task: before and after" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: before and after" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1606995520951">
@@ -266,9 +285,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="314" y="78" key="#SSH_Configurations/0.0.1474.864@0.0.1474.864" timestamp="1606794741982" />
-    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1607423238724">
-      <screen x="0" y="0" width="1473" height="864" />
+    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1608540713174">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
+    <state x="517" y="187" key="FileChooserDialogImpl/0.0.1471.864@0.0.1471.864" timestamp="1608540713174" />
     <state x="518" y="187" key="FileChooserDialogImpl/0.0.1473.864@0.0.1473.864" timestamp="1607423238724" />
     <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1607038827364" />
     <state x="599" y="330" key="Github.ShareDialog" timestamp="1606821647225">
@@ -279,10 +299,11 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1606821652933" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607502106495">
-      <screen x="0" y="0" width="1469" height="864" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607822838112">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
     <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607502106495" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1471.864@0.0.1471.864" timestamp="1607822838112" />
     <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607056988944" />
     <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606818269997">
       <screen x="0" y="0" width="1474" height="864" />

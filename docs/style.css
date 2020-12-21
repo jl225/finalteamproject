@@ -70,7 +70,7 @@ a.button2{
     text-align:center;
     transition: all 0.2s;
 }
-a. button1{
+a.button4{
     display:inline-block;
     padding:0.35em 1.2em;
     border:0.1em solid #FFFFFF;
@@ -80,16 +80,17 @@ a. button1{
     text-decoration:none;
     font-family:'Roboto',sans-serif;
     font-weight:300;
-    color:#FFFFFF;
+    color: #404040;
+    background-color:#FFFFFF;
     text-align:center;
     transition: all 0.2s;
 }
-a.button1:hover{
-    color: #ffffff;
+a.button4:hover{
+    color: #8d8d8d;
     background-color:#FFFFFF;
 }
 @media all and (max-width:30em){
-    a.button1{
+    a.button4{
         display:block;
         margin:0.4em auto;
     }
